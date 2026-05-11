@@ -2,7 +2,7 @@
 
 **AI/ML Engineer** · U.S. Citizen
 
-I build production AI systems — pipelines that go from raw, unstructured data to measurable business outcomes. My focus is on LLM integration, MLOps, and applied machine learning in enterprise environments.
+I build production AI systems - pipelines that go from raw, unstructured data to measurable business outcomes. My focus is on LLM integration, MLOps, and applied machine learning in enterprise environments.
 
 📧 supersean49011@gmail.com · [LinkedIn](https://www.linkedin.com/in/shounakjoshi)
 
